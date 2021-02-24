@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows on Edge Vision Analytics</title>
-    <link>http://example.org/installation/download/windows/</link>
+    <link>https://paul-adlink.github.io/installation/download/windows/</link>
     <description>Recent content in Windows on Edge Vision Analytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Feb 2021 17:39:02 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/installation/download/windows/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://paul-adlink.github.io/installation/download/windows/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
