@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://paul-adlink.github.io/installation/download/</loc>
+    <lastmod>2021-02-23T17:33:57+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://paul-adlink.github.io/installation/download/linux/</loc>
     <lastmod>2021-02-23T17:38:53+08:00</lastmod>
   </url>
@@ -33,77 +38,72 @@
   </url>
   
   <url>
-    <loc>https://paul-adlink.github.io/installation/download/</loc>
-    <lastmod>2021-02-23T17:33:57+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://paul-adlink.github.io/quick-start/</loc>
-    <lastmod>2021-02-23T16:05:31+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://paul-adlink.github.io/user-manual/</loc>
+    <loc>https://paul-adlink.github.io/installation/user-manual/</loc>
     <lastmod>2021-02-23T16:05:44+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://paul-adlink.github.io/user-manual/plugin/</loc>
+    <loc>https://paul-adlink.github.io/installation/user-manual/plugin/</loc>
     <lastmod>2021-02-24T15:08:56+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://paul-adlink.github.io/user-manual/ide/</loc>
+    <loc>https://paul-adlink.github.io/installation/user-manual/ide/</loc>
     <lastmod>2021-02-24T15:09:06+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://paul-adlink.github.io/samples/</loc>
+    <loc>https://paul-adlink.github.io/installation/quick-start/</loc>
+    <lastmod>2021-02-23T16:05:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://paul-adlink.github.io/installation/function-samples/</loc>
     <lastmod>2021-02-23T16:06:05+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://paul-adlink.github.io/samples/plugin/</loc>
+    <loc>https://paul-adlink.github.io/installation/function-samples/plugin/</loc>
     <lastmod>2021-02-24T15:26:31+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://paul-adlink.github.io/samples/application/</loc>
+    <loc>https://paul-adlink.github.io/installation/function-samples/application/</loc>
     <lastmod>2021-02-24T15:26:44+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://paul-adlink.github.io/model-zoo/</loc>
+    <loc>https://paul-adlink.github.io/installation/model-zoo/</loc>
     <lastmod>2021-02-23T16:06:21+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://paul-adlink.github.io/model-zoo/openvino/</loc>
+    <loc>https://paul-adlink.github.io/installation/model-zoo/openvino/</loc>
     <lastmod>2021-02-23T17:00:59+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://paul-adlink.github.io/model-zoo/tensorrt/</loc>
+    <loc>https://paul-adlink.github.io/installation/model-zoo/tensorrt/</loc>
     <lastmod>2021-02-23T17:01:26+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://paul-adlink.github.io/show-case/</loc>
+    <loc>https://paul-adlink.github.io/installation/show-case/</loc>
     <lastmod>2021-02-23T16:06:30+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://paul-adlink.github.io/show-case/case-1/</loc>
+    <loc>https://paul-adlink.github.io/installation/show-case/case-1/</loc>
     <lastmod>2021-02-24T15:47:21+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://paul-adlink.github.io/show-case/case-2/</loc>
+    <loc>https://paul-adlink.github.io/installation/show-case/case-2/</loc>
     <lastmod>2021-02-24T15:47:27+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://paul-adlink.github.io/show-case/case-3/</loc>
+    <loc>https://paul-adlink.github.io/installation/show-case/case-3/</loc>
     <lastmod>2021-02-24T15:47:31+08:00</lastmod>
   </url>
   
@@ -113,12 +113,17 @@
   </url>
   
   <url>
-    <loc>https://paul-adlink.github.io/faq/</loc>
+    <loc>https://paul-adlink.github.io/helper/</loc>
+    <lastmod>2021-02-23T16:03:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://paul-adlink.github.io/helper/faq/</loc>
     <lastmod>2021-02-23T16:07:05+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://paul-adlink.github.io/contact/</loc>
+    <loc>https://paul-adlink.github.io/helper/contact/</loc>
     <lastmod>2021-02-23T16:07:27+08:00</lastmod>
   </url>
   
